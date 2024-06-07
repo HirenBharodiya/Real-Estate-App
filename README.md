@@ -1,4 +1,4 @@
-# Real Estate App
+# Real Estate Animation Demo
 
 A new Flutter project.
 
@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Here is the Animation Video
+
+https://github.com/HirenBharodiya/Real-Estate-App/assets/32671383/cd328cdf-0d6e-4e04-b402-36a83719a11b
