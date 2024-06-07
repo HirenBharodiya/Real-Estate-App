@@ -1,4 +1,4 @@
-# real_estate_app
+# Real Estate App
 
 A new Flutter project.
 
