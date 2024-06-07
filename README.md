@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 Here is the Animation Video
 
 https://github.com/HirenBharodiya/Real-Estate-App/assets/32671383/cd328cdf-0d6e-4e04-b402-36a83719a11b
+
+[Download Apk from here](https://drive.google.com/file/d/1W-iL5nafO-hnKAle8QMDGpF1uQegef4e/view?usp=sharing)
